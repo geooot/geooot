@@ -2,7 +2,9 @@
 ### Howdy!
 Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org) and making alexa read books at Audible.
 
-Noteable Repos:
+Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
+
+#### Noteable Repos:
 - **[~/helping-eye](https://github.com/helping-eye)**</br>
   A prototype chrome extension that aims to help visually impaired people intuitively navigate the internet through a chatbot interface. Made in 24hrs at [TAMUhack 2020](https://tamuhack.com)
   
