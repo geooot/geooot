@@ -1,4 +1,5 @@
-### 🤠 </br>Howdy!
+### 😷
+### Howdy!
 Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org) and making alexa read books at Audible.
 
 Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
