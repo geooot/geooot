@@ -1,14 +1,13 @@
-🤠
-### Howdy!
+### 🤠 </br>Howdy!
 Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org) and making alexa read books at Audible.
 
 Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
 
 #### Noteable Repos:
-- **[helping-eye](https://github.com/helping-eye)**</br>
+- **[helping-eye](https://github.com/geooot/helping-eye)**</br>
   A prototype chrome extension that aims to help visually impaired people intuitively navigate the internet through a chatbot interface. Made in 24hrs at [TAMUhack 2020](https://tamuhack.com)
   
-- **[fullhouse](https://github.com/fullhouse)**</br>
+- **[fullhouse](https://github.com/geooot/fullhouse)**</br>
   Communal Inventory Management for Social Service Centers designed to reduce waste and give each community their specific needs. Made in 24hrs at [HackTX 2019](https://hacktx.com)
   
 - **[tamu-datathon-org / gigabowser](https://github.com/tamu-datathon-org/gigabowser)**</br>
