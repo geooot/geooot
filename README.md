@@ -1,6 +1,6 @@
 ### 😷
 ### Howdy!
-Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org) and making alexa read books at Audible.
+Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org) and making [alexa read audiobooks at Audible](https://www.audible.com/).
 
 Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
 
