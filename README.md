@@ -17,7 +17,7 @@ Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
 - **[tamu-datathon-org / portal](https://github.com/tamu-datathon-org/portal)**</br>
   An events "portal" made using Next.JS and hosted on vercel. 
   
-- **[soul-patch](https://github.com/geooot/soulpatch)**</br>
+- **[soul-patch](https://github.com/geooot/soul-patch)**</br>
   A HTML templator with angular like syntax. This could be used for adding dynamic data to websites built on sites builders (like webflow).
   
 - **[request-catwalk](https://github.com/geooot/request-catwalk)**</br>
