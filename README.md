@@ -24,3 +24,11 @@ Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
   Strut your API Stuff! Create simple HTML pages to show off your API.
 
 [My repos →](https://github.com/geooot?tab=repositories)
+
+#### v e r y &nbsp; c o o l &nbsp; w i d g e t s
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geooot&count_private=true&show_icons=true" />
+</a>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
