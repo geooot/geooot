@@ -27,8 +27,8 @@ Socials: [🌐](https://geooot.com) | [🐦](https://twitter.com/geooot_)
 
 #### v e r y &nbsp; c o o l &nbsp; w i d g e t s
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geooot&count_private=true&show_icons=true" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=geooot&count_private=true&show_icons=true" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
