@@ -1,5 +1,5 @@
 ### 😷
-Stay safe out there! Social distance and get vaccinated!
+Stay safe out there!
 
 #### Noteable Repos:
 - **[helping-eye](https://github.com/geooot/helping-eye)**</br>
