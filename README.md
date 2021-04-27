@@ -1,6 +1,5 @@
 ### 😷
-### Howdy!
-Welcome to my GitHub! Currently I am [creating stuff for TAMU Datathon](https://github.com/tamu-datathon-org).
+Stay safe out there! Social distance and get vaccinated!
 
 #### Noteable Repos:
 - **[helping-eye](https://github.com/geooot/helping-eye)**</br>
