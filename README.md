@@ -1,6 +1,3 @@
-### 😷
-Stay safe out there!
-
 #### Noteable Repos:
 - **[helping-eye](https://github.com/geooot/helping-eye)**</br>
   A prototype chrome extension that aims to help visually impaired people intuitively navigate the internet through a chatbot interface. Made in 24hrs at [TAMUhack 2020](https://tamuhack.com)
